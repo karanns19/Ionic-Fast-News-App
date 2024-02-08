@@ -1,0 +1,20 @@
+$color_1: var(--ion-color-tertiary);
+
+.source-label {
+	color: $color_1;
+	vertical-align: middle;
+}
+
+.icon {
+	vertical-align: middle;
+	color: $color_1;
+}
+
+.news-article-list {
+	padding: 0 !important;
+}
+
+.source {
+	padding-left: 10px;
+	padding-right: 10px;
+}
